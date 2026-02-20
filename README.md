@@ -298,13 +298,5 @@ http://localhost:4000
 ## 👨‍💻 Author
 
 **Kanesha**
+
 Software Engineer
-
----
-
-## 📄 License
-
-This project is open-source and intended for educational and learning purposes.
-
----
-cure systems are not built by chance — they are designed."
